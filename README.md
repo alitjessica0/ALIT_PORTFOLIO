@@ -1,2 +1,6 @@
-# ALIT_PORTFOLIO
-Its sounds interesting
+Creating my personal portfolio website was both a rewarding and insightful experience. From the beginning, I aimed to apply core UI/UX principles to ensure the site was not only visually appealing but also intuitive and easy to navigate. I focused on clarity and consistency, using a clean layout with well-defined sections like About, Skills, Projects, and Contact. I chose a neutral background with accent colors to highlight important elements, ensuring good contrast and readability. The navigation bar was designed to be simple and accessible, allowing users to move through the site effortlessly.
+One of the biggest challenges I faced was finding the right balance between design and functionality. I didn’t want the site to feel cluttered, but I also wanted it to showcase my personality and skills effectively. To solve this, I kept the design minimalistic and used visual hierarchy—larger headings, spacing, and color—to guide the user’s attention. Another challenge was ensuring the site looked good on different screen sizes. I addressed this by using flexible containers and testing the layout on both desktop and mobile views.
+Looking ahead, there are several ways I’d like to improve the portfolio. Adding subtle animations and hover effects could make the experience more engaging. I’d also like to implement a contact form to allow visitors to reach out directly, rather than relying on static email links. Finally, enhancing accessibility—like adding alt text for images and ensuring keyboard navigation—would make the site more inclusive.
+Overall, this project helped me grow not just as a developer, but as a designer who thinks deeply about the user experience.
+
+
